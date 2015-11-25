@@ -1,2 +1,5 @@
-# full_angular
-DaftMonk/generator-angular-fullstack
+# DaftMonk 's generator-angular-fullstack
+
+connected to c9
+
+mongod --smallfiles
